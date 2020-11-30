@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Practice-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=dbde31)
 
 //Gyakorló feladat ⭐
+
 Bankszámla formátum ellenőrzése.
 Input karakterek megvizsgálása, isDigit-el és karakter összehasonlítással.
 
